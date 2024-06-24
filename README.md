@@ -1,8 +1,8 @@
 # HyperConvexHull
-# Computation of energy above the convex hull
-# for test compositions
-# w.r.t. relevant entries in MaterialsProject (MP)
-# or prepared references
+Computation of energy above the convex hull
+for test compositions
+w.r.t. relevant entries in MaterialsProject (MP)
+or prepared references
 
 1. Unzip MP_composition_etotal.pickle.zip 
 
